@@ -1822,4 +1822,8 @@ section {
     font-size: 25px;
     line-height: 1.48;
   }
+}.footer__text-logo {
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: 800;
 }
