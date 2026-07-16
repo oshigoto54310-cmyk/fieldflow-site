@@ -1888,3 +1888,9 @@ section {
   font-size: 24px;
   font-weight: 800;
 }
+/* スマホでは制作フロー全体図を非表示 */
+@media screen and (max-width: 860px) {
+  .flow__visual {
+    display: none !important;
+  }
+}
